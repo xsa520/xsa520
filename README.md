@@ -53,5 +53,5 @@ Without decision equivalence and acceptance architecture, cross-system governanc
 ## Contact
 
 - Email: xsa52000@gmail.com
-- LinkedIn: [Dale Chou](https://www.linkedin.com/in/dale-chou-xsa520)
+- LinkedIn: [Dale Chou](https://www.linkedin.com/in/de-yu-chou-177b413a3/)
 - Decifact: [decifact.com](https://www.decifact.com)
