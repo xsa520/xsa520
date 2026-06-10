@@ -12,7 +12,7 @@ Building the constitutional governance layer for cross-sovereign AI systems.
 
 - **[Decifact](https://github.com/xsa520/decifact)** — Decision equivalence verifier. Reference implementation of Guardian v0.2. Determines whether two independently produced decisions share the same invariant boundary.
 
-- **[decifact.com](https://www.decifact.com)** — Decision verification layer for governed AI systems.
+- **[decifact.com](https://www.decifact.com)** — Decision verification and comparability layer for independently governed AI systems.
 
 ---
 
@@ -44,7 +44,8 @@ Current AI governance frameworks address identity, execution receipts, and compl
 
 What remains undefined:
 
-> When independently governed systems each produce a valid decision, what determines whether those decisions are equivalent — and which should be accepted when governance boundaries interact?
+> When independently governed systems each produce a valid decision, what determines whether those decisions are comparable,
+and under what conditions should either be accepted?
 
 Without decision equivalence and acceptance architecture, cross-system governance remains structurally incomplete.
 
