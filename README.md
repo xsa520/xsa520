@@ -2,7 +2,10 @@
 
 Founder — Guardian · Decifact
 
-Building the constitutional governance layer for cross-sovereign AI systems.
+Comparability layer for independently governed systems.
+Two valid systems are not necessarily comparable.
+
+Comparability before coordination.
 
 ---
 
@@ -33,7 +36,7 @@ Guardian's constitutional architecture has been operationalized in a live govern
 
 The Alpha System — an internally operated governance deployment — has validated decision equivalence, phase gate progression, and governance continuity mechanics under real execution pressure prior to external deployment.
 
-**Evidence anchoring:** RFC3161 (DigiCert)  
+**Evidence anchoring:** RFC3161 (DigiCert)
 **Audit chain:** Append-only, hash-verified
 
 ---
